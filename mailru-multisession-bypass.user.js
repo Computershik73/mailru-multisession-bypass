@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Mail.ru Multi-session Bypass
 // @namespace    https://github.com/Computershik73/mailru-multisession-bypass
-// @version      1.0.0
+// @version      1.0.1
 // @description  Блокировка ограничений мультисессии в почте Mail.ru
 // @author       Ilya Vysotsky
 // @match        *://e.mail.ru/*
@@ -157,3 +157,4 @@
     }
 
 })();
+
